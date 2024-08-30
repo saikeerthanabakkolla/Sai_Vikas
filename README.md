@@ -8,6 +8,4 @@
 
 💙 
 
-![preview img](/preview.png)
-
 "# Sai_Vikas" 
